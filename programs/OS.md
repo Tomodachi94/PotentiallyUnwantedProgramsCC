@@ -1,1 +1,1 @@
-PotatOS: Malicious operating system.
+PotatOS: Potentially malicious operating system.
